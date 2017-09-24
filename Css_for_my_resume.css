@@ -1,0 +1,57 @@
+body
+{
+    background-color:#494949 ;
+    background-attachment: fixed;
+}
+h1
+{
+    padding-left:30%;
+}
+hr
+{
+    margin:30px;
+    width: 90%
+}
+img
+{
+    width:180px;
+    height:200px ;
+    padding: 5px;
+}
+.page
+{
+    margin-left: 10%;
+    margin-top: 30px;
+    width: 65%;
+    height: 2000px;
+    border: 1px black solid;  
+    background-color:white;
+    box-shadow: 20px -15px 10px 5px rgba(0, 0, 0, .2);
+}
+#myInfo
+{
+    margin: 5px;
+    margin-left:5%;
+    padding: 5px;
+    width: 250px;
+    height: 200px;
+    float: left;
+}
+.Skills
+{
+    margin: 5px;
+    margin-left:5%;
+    padding: 5px;
+    width: 250px;
+    height: 200px;
+    float: left;
+}
+.Education
+{
+    margin: 5px;
+    margin-left:5%;
+    padding: 5px;
+    width: 250px;
+    height: 450px;
+    float: left;
+}
